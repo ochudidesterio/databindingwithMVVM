@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVMDataBinding</string>
+    <string-array name="planets_array">
+        <item>Java</item>
+        <item>JavaFx</item>
+        <item>Spring Boot</item>
+        <item>Thymleaf</item>
+        <item>Jupiter</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>RxJava</item>
+    </string-array>
+</resources>
